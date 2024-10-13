@@ -1,0 +1,88 @@
+C:\Users\aadey\source\repos\CompIA\CompIA\bin\Debug\CompIA.exe.config
+C:\Users\aadey\source\repos\CompIA\CompIA\bin\Debug\CompIA.exe
+C:\Users\aadey\source\repos\CompIA\CompIA\bin\Debug\CompIA.pdb
+C:\Users\aadey\source\repos\CompIA\CompIA\obj\Debug\CompIA.csproj.AssemblyReference.cache
+C:\Users\aadey\source\repos\CompIA\CompIA\obj\Debug\CompIA.Properties.Resources.resources
+C:\Users\aadey\source\repos\CompIA\CompIA\obj\Debug\CompIA.csproj.GenerateResource.cache
+C:\Users\aadey\source\repos\CompIA\CompIA\obj\Debug\CompIA.csproj.CoreCompileInputs.cache
+C:\Users\aadey\source\repos\CompIA\CompIA\obj\Debug\CompIA.exe
+C:\Users\aadey\source\repos\CompIA\CompIA\obj\Debug\CompIA.pdb
+C:\Users\aadey\source\repos\CompIA\CompIA\obj\Debug\CompIA.Login.resources
+C:\Users\aadey\source\repos\CompIA\CompIA\obj\Debug\CompIA.HomePage.resources
+C:\Users\aadey\source\repos\CompIA\CompIA\obj\Debug\CompIA.Burner.resources
+C:\Users\aadey\source\repos\CompIA\CompIA\bin\Debug\CostCapDB.mdf
+C:\Users\aadey\source\repos\CompIA\CompIA\bin\Debug\CostCapDB_log.ldf
+C:\Users\NCCE Hub 12\Downloads\CompIA-20230921T082144Z-001\CompIA\CompIA\bin\Debug\CostCapDB.mdf
+C:\Users\NCCE Hub 12\Downloads\CompIA-20230921T082144Z-001\CompIA\CompIA\bin\Debug\CostCapDB_log.ldf
+C:\Users\NCCE Hub 12\Downloads\CompIA-20230921T082144Z-001\CompIA\CompIA\bin\Debug\CompIA.exe.config
+C:\Users\NCCE Hub 12\Downloads\CompIA-20230921T082144Z-001\CompIA\CompIA\bin\Debug\CompIA.exe
+C:\Users\NCCE Hub 12\Downloads\CompIA-20230921T082144Z-001\CompIA\CompIA\bin\Debug\CompIA.pdb
+C:\Users\NCCE Hub 12\Downloads\CompIA-20230921T082144Z-001\CompIA\CompIA\obj\Debug\CompIA.csproj.AssemblyReference.cache
+C:\Users\NCCE Hub 12\Downloads\CompIA-20230921T082144Z-001\CompIA\CompIA\obj\Debug\CompIA.Burner.resources
+C:\Users\NCCE Hub 12\Downloads\CompIA-20230921T082144Z-001\CompIA\CompIA\obj\Debug\CompIA.HomePage.resources
+C:\Users\NCCE Hub 12\Downloads\CompIA-20230921T082144Z-001\CompIA\CompIA\obj\Debug\CompIA.Login.resources
+C:\Users\NCCE Hub 12\Downloads\CompIA-20230921T082144Z-001\CompIA\CompIA\obj\Debug\CompIA.Properties.Resources.resources
+C:\Users\NCCE Hub 12\Downloads\CompIA-20230921T082144Z-001\CompIA\CompIA\obj\Debug\CompIA.csproj.GenerateResource.cache
+C:\Users\NCCE Hub 12\Downloads\CompIA-20230921T082144Z-001\CompIA\CompIA\obj\Debug\CompIA.csproj.CoreCompileInputs.cache
+C:\Users\NCCE Hub 12\Downloads\CompIA-20230921T082144Z-001\CompIA\CompIA\obj\Debug\CompIA.exe
+C:\Users\NCCE Hub 12\Downloads\CompIA-20230921T082144Z-001\CompIA\CompIA\obj\Debug\CompIA.pdb
+H:\CompIA-Updated\CompIA\bin\Debug\CostCapDB.mdf
+H:\CompIA-Updated\CompIA\bin\Debug\CostCapDB_log.ldf
+H:\CompIA-Updated\CompIA\bin\Debug\CompIA.exe.config
+H:\CompIA-Updated\CompIA\bin\Debug\CompIA.exe
+H:\CompIA-Updated\CompIA\bin\Debug\CompIA.pdb
+H:\CompIA-Updated\CompIA\obj\Debug\CompIA.csproj.AssemblyReference.cache
+H:\CompIA-Updated\CompIA\obj\Debug\CompIA.Burner.resources
+H:\CompIA-Updated\CompIA\obj\Debug\CompIA.SignUp.resources
+H:\CompIA-Updated\CompIA\obj\Debug\CompIA.HomePage.resources
+H:\CompIA-Updated\CompIA\obj\Debug\CompIA.Login.resources
+H:\CompIA-Updated\CompIA\obj\Debug\CompIA.Properties.Resources.resources
+H:\CompIA-Updated\CompIA\obj\Debug\CompIA.csproj.GenerateResource.cache
+H:\CompIA-Updated\CompIA\obj\Debug\CompIA.csproj.CoreCompileInputs.cache
+H:\CompIA-Updated\CompIA\obj\Debug\CompIA.exe
+H:\CompIA-Updated\CompIA\obj\Debug\CompIA.pdb
+H:\CompIA-Updated\CompIA\obj\Debug\CompIA.ForgottenPassword.resources
+E:\CompIA-Updated\CompIA\bin\Debug\CostCapDB.mdf
+E:\CompIA-Updated\CompIA\bin\Debug\CostCapDB_log.ldf
+E:\CompIA-Updated\CompIA\bin\Debug\CostCapDBDataSet.Designer.cs
+E:\CompIA-Updated\CompIA\bin\Debug\CostCapDBDataSet.xsc
+E:\CompIA-Updated\CompIA\bin\Debug\CostCapDBDataSet.xsd
+E:\CompIA-Updated\CompIA\bin\Debug\CostCapDBDataSet.xss
+E:\CompIA-Updated\CompIA\bin\Debug\CompIA.exe.config
+E:\CompIA-Updated\CompIA\bin\Debug\CompIA.exe
+E:\CompIA-Updated\CompIA\bin\Debug\CompIA.pdb
+E:\CompIA-Updated\CompIA\obj\Debug\CompIA.csproj.AssemblyReference.cache
+E:\CompIA-Updated\CompIA\obj\Debug\CompIA.Burner.resources
+E:\CompIA-Updated\CompIA\obj\Debug\CompIA.ForgottenPassword.resources
+E:\CompIA-Updated\CompIA\obj\Debug\CompIA.SignUp.resources
+E:\CompIA-Updated\CompIA\obj\Debug\CompIA.HomePage.resources
+E:\CompIA-Updated\CompIA\obj\Debug\CompIA.Login.resources
+E:\CompIA-Updated\CompIA\obj\Debug\CompIA.Properties.Resources.resources
+E:\CompIA-Updated\CompIA\obj\Debug\CompIA.csproj.GenerateResource.cache
+E:\CompIA-Updated\CompIA\obj\Debug\CompIA.csproj.CoreCompileInputs.cache
+E:\CompIA-Updated\CompIA\obj\Debug\CompIA.exe
+E:\CompIA-Updated\CompIA\obj\Debug\CompIA.pdb
+H:\CompIA-Updated\CompIA\bin\Debug\HtmlAgilityPack.dll
+H:\CompIA-Updated\CompIA\bin\Debug\HtmlAgilityPack.pdb
+H:\CompIA-Updated\CompIA\bin\Debug\HtmlAgilityPack.xml
+H:\CompIA-Updated\CompIA\obj\Debug\CompIA.csproj.CopyComplete
+E:\CompIA-Updated\CompIA\bin\Debug\HtmlAgilityPack.dll
+E:\CompIA-Updated\CompIA\bin\Debug\HtmlAgilityPack.pdb
+E:\CompIA-Updated\CompIA\bin\Debug\HtmlAgilityPack.xml
+E:\CompIA-Updated\CompIA\obj\Debug\CompIA.csproj.CopyComplete
+E:\CompIA-Updated\CompIA\obj\Debug\CompIA.GoalsPage.resources
+H:\CompIA-Updated\CompIA\obj\Debug\CompIA.GoalsPage.resources
+H:\CompIA-Updated\CompIA\obj\Debug\CompIA.ListHeader.resources
+H:\CompIA-Updated\CompIA\obj\Debug\CompIA.ListItem.resources
+H:\CompIA-Updated\CompIA\obj\Debug\CompIA.CategoryLabel.resources
+E:\CompIA-Updated\CompIA\obj\Debug\CompIA.ListHeader.resources
+E:\CompIA-Updated\CompIA\obj\Debug\CompIA.ListItem.resources
+E:\CompIA-Updated\CompIA\obj\Debug\CompIA.CategoryLabel.resources
+H:\CompIA-Updated\CompIA\obj\Debug\CompIA.EditGoalPage.resources
+H:\CompIA-Updated\CompIA\obj\Debug\CompIA.CategoryBox.resources
+H:\CompIA-Updated\CompIA\obj\Debug\CompIA.PaymentsPage.resources
+H:\CompIA-Updated\CompIA\obj\Debug\CompIA.ListHeaderPay.resources
+H:\CompIA-Updated\CompIA\obj\Debug\CompIA.ListItemPay.resources
+H:\CompIA-Updated\CompIA\obj\Debug\CompIA.EditPaymentsPage.resources
+H:\CompIA-Updated\CompIA\bin\Debug\Tulpep.NotificationWindow.dll
+H:\CompIA-Updated\CompIA\obj\Debug\CompIA.BudgetingNotification.resources
